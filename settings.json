@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "khanhbeo49-iK2f.aternos.me:23090",
-    "port": 38776,
+    "ip": "khanhbeo49-iK2f.aternos.me",
+    "port": 23090,
     "version": "1.21.1",
     "try-creative": false
   },
